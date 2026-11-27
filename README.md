@@ -2,8 +2,8 @@
 
 Windows Forms üzerinde C# ile geliştirilmiş, klavye olaylarının nasıl yakalandığını ve işlendiğini gösteren **eğitsel** bir tuş olayı kayıt uygulaması. Nesne Tabanlı Programlama (YMH219) dersi ek uygulama ödevi kapsamında hazırlanmıştır.
 
-**Öğrenci:** AD SOYAD
-**Öğrenci No:** ÖĞRENCİ NUMARASI
+**Öğrenci:** Bilal Engin
+
 
 ## Kapsam ve Güvenlik Sınırı
 
